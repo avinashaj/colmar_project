@@ -1,0 +1,117 @@
+.bold{
+	font-size: 32px;
+	font-weight: bold;
+	padding-top: 40px;
+	margin-top: 20px;
+}
+.light{
+	font-size: 32px;
+	color:grey;
+}
+
+.links{
+    font-size: 29px;
+	display:inline;
+
+}
+.links a{
+	padding-left: 16px;
+	color:black;
+}
+.desktop{
+	height: 64px;
+	padding: 0 24px;
+}
+.right{
+  display:inline;
+  font-family:sans-serif;
+ padding-top: 60px;
+ text-align: left;
+}
+.define{
+	font-weight:bold;
+	font-size: 65px;	
+}
+.definition{
+	font-weight:bold;
+	font-size: 35px;
+}
+.cover{
+	padding:32px 24px;
+}
+button{
+     padding: 8px 0;
+     width:85%;
+     color:white;
+     background-color: #272625;
+}
+.articles{
+	padding:32px 24px;
+}
+.others{
+	border: 1px solid white;
+}
+.white{
+	border: 1px solid lightgrey;
+}
+.dark{
+	border: 1px solid lightgrey;
+	background-color: lightgrey;
+}
+.descri{
+	padding: 8px 0;
+}
+.spsize{
+		padding: 16px 16px;
+}
+.description{
+	padding-top: 32px;
+	padding-bottom: 32px;
+}
+.description h1{
+	padding-bottom: 24px;
+} 
+.courses h1{
+padding:32px 0;
+text-align: center;
+}
+.courses{
+	background-color: lightgrey;
+	padding: 0 72px 32px 72px;
+}
+.course .description{
+	padding:16px 16px 24px 16px;
+	background-color: white;
+}
+.course .description h3{
+	padding-top: 8px;
+	padding-bottom: 8px;
+	font-weight: lighter;
+}
+.down_row{
+	padding-top: 32px;
+}
+.description p{
+     font-size-adjust: 
+	font-weight: lighter;
+}
+
+.thesis h1{
+	padding-top: 32px;
+	padding-bottom: 32px;
+	text-align: center;
+	font-weight: bold;
+}
+.thesis {
+	padding-left: 24px;
+}
+.dark .pic{
+	padding:16px 16px;
+}
+.new{
+	border:1px solid white;
+}
+
+.bar{
+	padding-left:24px;
+}
